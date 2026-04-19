@@ -33,7 +33,7 @@ https://mock-api.net/api/JamHydTransit/api/v1/bus-schedule
 
 ## App Preview
 
-![App Screenshot]()
+![App Screenshot](https://github.com/iqballakho07/RouteLink/blob/main/RouteLink.jpeg)
 
 ---
 
@@ -82,7 +82,7 @@ Error State
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/RouteLink.git  
+git clone https://github.com/iqballakho07/RouteLink.git  
 cd RouteLink  
 
 ### Install Dependencies
