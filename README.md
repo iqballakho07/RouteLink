@@ -32,9 +32,7 @@ https://mock-api.net/api/JamHydTransit/api/v1/bus-schedule
 ---
 
 ## App Preview
-
-![App Screenshot](https://github.com/iqballakho07/RouteLink/blob/main/RouteLink.jpeg)
-
+<img src="https://github.com/iqballakho07/RouteLink/blob/main/RouteLink.jpeg" width="300" height="600"/>
 ---
 
 ## Project Structure
